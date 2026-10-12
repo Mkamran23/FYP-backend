@@ -1,0 +1,146 @@
+{
+  "description": "Twenty matching-ready demo users. The seeder resolves these skill names against the SkillSwap catalog and hashes the shared password.",
+  "sharedPassword": "DemoPass123!",
+  "users": [
+    {
+      "name": "Ayesha Khan",
+      "email": "demo.user01@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["JavaScript", "React"],
+      "skillsToLearn": ["Python", "UI/UX Design"]
+    },
+    {
+      "name": "Hamza Ahmed",
+      "email": "demo.user02@skillswap.test",
+      "location": "Lahore",
+      "skillsToTeach": ["Python", "Node.js"],
+      "skillsToLearn": ["React", "Graphic Design"]
+    },
+    {
+      "name": "Sara Malik",
+      "email": "demo.user03@skillswap.test",
+      "location": "Islamabad",
+      "skillsToTeach": ["UI/UX Design", "Graphic Design"],
+      "skillsToLearn": ["JavaScript", "Photography"]
+    },
+    {
+      "name": "Ali Raza",
+      "email": "demo.user04@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["Node.js", "JavaScript"],
+      "skillsToLearn": ["Python", "Guitar"]
+    },
+    {
+      "name": "Zainab Iqbal",
+      "email": "demo.user05@skillswap.test",
+      "location": "Lahore",
+      "skillsToTeach": ["Photography", "Digital Illustration"],
+      "skillsToLearn": ["UI/UX Design", "English"]
+    },
+    {
+      "name": "Bilal Hussain",
+      "email": "demo.user06@skillswap.test",
+      "location": "Rawalpindi",
+      "skillsToTeach": ["Guitar", "Music Production"],
+      "skillsToLearn": ["Piano", "Node.js"]
+    },
+    {
+      "name": "Hira Shah",
+      "email": "demo.user07@skillswap.test",
+      "location": "Faisalabad",
+      "skillsToTeach": ["Pakistani Cooking", "Baking"],
+      "skillsToLearn": ["Italian Cooking", "Yoga"]
+    },
+    {
+      "name": "Usman Tariq",
+      "email": "demo.user08@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["Python", "Node.js"],
+      "skillsToLearn": ["React", "Public Speaking"]
+    },
+    {
+      "name": "Maham Noor",
+      "email": "demo.user09@skillswap.test",
+      "location": "Islamabad",
+      "skillsToTeach": ["English", "Public Speaking"],
+      "skillsToLearn": ["Spanish", "Photography"]
+    },
+    {
+      "name": "Danish Siddiqui",
+      "email": "demo.user10@skillswap.test",
+      "location": "Lahore",
+      "skillsToTeach": ["Strength Training", "Cricket"],
+      "skillsToLearn": ["Yoga", "Meal Planning"]
+    },
+    {
+      "name": "Areeba Fatima",
+      "email": "demo.user11@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["React", "UI/UX Design"],
+      "skillsToLearn": ["Node.js", "Digital Illustration"]
+    },
+    {
+      "name": "Saad Qureshi",
+      "email": "demo.user12@skillswap.test",
+      "location": "Multan",
+      "skillsToTeach": ["Italian Cooking", "Meal Planning"],
+      "skillsToLearn": ["Pakistani Cooking", "English"]
+    },
+    {
+      "name": "Iqra Saleem",
+      "email": "demo.user13@skillswap.test",
+      "location": "Lahore",
+      "skillsToTeach": ["Piano", "Singing"],
+      "skillsToLearn": ["Guitar", "Music Production"]
+    },
+    {
+      "name": "Farhan Abbas",
+      "email": "demo.user14@skillswap.test",
+      "location": "Islamabad",
+      "skillsToTeach": ["Node.js", "Python"],
+      "skillsToLearn": ["JavaScript", "Strength Training"]
+    },
+    {
+      "name": "Noor Hassan",
+      "email": "demo.user15@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["Spanish", "English"],
+      "skillsToLearn": ["Public Speaking", "Baking"]
+    },
+    {
+      "name": "Ahmed Riaz",
+      "email": "demo.user16@skillswap.test",
+      "location": "Peshawar",
+      "skillsToTeach": ["Cricket", "Yoga"],
+      "skillsToLearn": ["Strength Training", "Python"]
+    },
+    {
+      "name": "Laiba Ahmed",
+      "email": "demo.user17@skillswap.test",
+      "location": "Lahore",
+      "skillsToTeach": ["Digital Illustration", "Graphic Design"],
+      "skillsToLearn": ["Photography", "React"]
+    },
+    {
+      "name": "Omar Farooq",
+      "email": "demo.user18@skillswap.test",
+      "location": "Karachi",
+      "skillsToTeach": ["Meal Planning", "Pakistani Cooking"],
+      "skillsToLearn": ["Italian Cooking", "Guitar"]
+    },
+    {
+      "name": "Sana Javed",
+      "email": "demo.user19@skillswap.test",
+      "location": "Islamabad",
+      "skillsToTeach": ["Baking", "Photography"],
+      "skillsToLearn": ["Graphic Design", "Spanish"]
+    },
+    {
+      "name": "Kashif Mehmood",
+      "email": "demo.user20@skillswap.test",
+      "location": "Rawalpindi",
+      "skillsToTeach": ["Music Production", "Piano"],
+      "skillsToLearn": ["Singing", "JavaScript"]
+    }
+  ]
+}

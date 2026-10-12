@@ -1,0 +1,14 @@
+﻿const express = require("express");
+const protect = require("../middleware/authMiddleware");
+const requireAdmin = require("../middleware/adminMiddleware");
+const controller = require("../controllers/adminController");
+const router = express.Router();
+router.post("/reports", protect, controller.createReport);
+router.use(protect, requireAdmin);
+router.get("/users", controller.listUsers);
+router.patch("/users/:id/status", controller.setUserStatus);
+router.get("/categories", controller.listCategories);
+router.patch("/categories/:category", controller.renameCategory);
+router.get("/reports", controller.listReports);
+router.patch("/reports/:id", controller.updateReport);
+module.exports = router;
